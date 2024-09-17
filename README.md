@@ -1,7 +1,6 @@
 <div id="header" align="center">
   
-  <img src="[![image](https://github.com/user-attachments/assets/d42edd4e-4e93-4d40-8956-4c8fdc75ef22)
-)"/>
+  <img src="[![image](https://github.com/user-attachments/assets/d42edd4e-4e93-4d40-8956-4c8fdc75ef22))"/>
   
 </div>
 
