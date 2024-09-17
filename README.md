@@ -7,6 +7,6 @@
 
 <div align="center">
   
-([![image](https://github.com/user-attachments/assets/124d6daf-6b28-44b3-848e-c905a7e0a109)
-])
+![image](https://github.com/user-attachments/assets/124d6daf-6b28-44b3-848e-c905a7e0a109)
+
 </div>
