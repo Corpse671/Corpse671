@@ -1,6 +1,7 @@
 <div id="header" align="center">
   
-  <img src="[https://media1.tenor.com/m/Z-qCHXJsDwoAAAAC/kafka.gif](https://media1.tenor.com/m/Z-qCHXJsDwoAAAAC/kafka.gif)"/>
+  <img src="[![image](https://github.com/user-attachments/assets/50ff7580-4253-4622-86d5-db529b2d797d)
+](https://media1.tenor.com/m/Z-qCHXJsDwoAAAAC/kafka.gif)"/>
   
 </div>
 
